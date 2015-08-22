@@ -1,0 +1,13 @@
+PODS:
+  - FXForms (1.2.13)
+  - JVFloatLabeledTextField (1.1.0)
+
+DEPENDENCIES:
+  - FXForms
+  - JVFloatLabeledTextField
+
+SPEC CHECKSUMS:
+  FXForms: 22d5ceafd8ca44d2f2be4827afcf00aaf80184a5
+  JVFloatLabeledTextField: ea4a3d8387ddd43724c472bb2b8ab39b79af05d4
+
+COCOAPODS: 0.37.1
